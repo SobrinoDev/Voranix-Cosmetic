@@ -7,6 +7,10 @@
     "nyan": {
       "nombre": "Nyan Cat",
       "velocidad": 100
+    },
+    "sakura": {
+      "nombre": "Sakura Nocturna",
+      "velocidad": 120
     }
   }
 }
