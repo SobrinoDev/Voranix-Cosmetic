@@ -1,5 +1,9 @@
 {
   "capas": {
+    "voranix": {
+      "nombre": "Voranix",
+      "velocidad": 300
+    },
     "nyan": {
       "nombre": "Nyan Cat",
       "velocidad": 100
