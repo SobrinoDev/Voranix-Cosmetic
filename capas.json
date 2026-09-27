@@ -1,8 +1,4 @@
 {
-  "jugadores": {
-    "SobrinoDev": "nyan",
-    "DevTest": "nyan"
-  },
   "capas": {
     "nyan": {
       "nombre": "Nyan Cat",
