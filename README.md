@@ -39,6 +39,16 @@ mientras la imagen exista en `capas/`).
   Ejemplo: `nyan.png` mide 384x1728 = 9 cuadros de 384x192.
 - Tamaño máximo: 16 MB por imagen.
 
+## Élitros
+
+La misma imagen de la capa lleva el diseño de los élitros, en la zona de la derecha
+(en una capa de 64x32: de (22,0) a (46,22)). Si esa zona está vacía, las alas se ven transparentes.
+
+- La cara que se ve **desde atrás** del jugador es el rectángulo de 10x20 que empieza en (36, 2).
+- La cara de **adentro** es el de 10x20 que empieza en (24, 2): conviene poner ahí el mismo diseño en espejo,
+  para que el ala se vea desde los dos lados.
+- Las partes transparentes recortan la forma del ala (por ejemplo, plumas).
+
 ## Cuándo se ven los cambios
 
 - El catálogo se relee cada 5 minutos (GitHub además puede tardar unos minutos en actualizar).

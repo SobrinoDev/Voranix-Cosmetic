@@ -11,6 +11,9 @@
     "sakura": {
       "nombre": "Sakura Nocturna",
       "velocidad": 120
+    },
+    "cinnamoroll": {
+      "nombre": "Cinnamoroll"
     }
   }
 }
