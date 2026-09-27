@@ -1,7 +1,7 @@
 # Voranix Cosmetic
 
 Catálogo de capas de la comunidad **Voranix**. Cada jugador con Voranix Client elige su capa en el
-**menú de capas** (tecla **K**, o el botón **Capas** del menú de pausa). En servidores con
+**menú de capas** (tecla **J**, o el botón **Capas** del menú de pausa). En servidores con
 **Voranix Server** todos ven la capa de todos; en otros servidores solo uno mismo ve la suya.
 Quien no tenga Voranix no ve las capas.
 
