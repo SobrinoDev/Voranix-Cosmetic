@@ -1,9 +1,21 @@
 # Voranix Cosmetic
 
-Catálogo de capas de la comunidad **Voranix**. Cada jugador con Voranix Client elige su capa en el
-**menú de capas** (tecla **J**, o el botón **Capas** del menú de pausa). En servidores con
-**Voranix Server** todos ven la capa de todos; en otros servidores solo uno mismo ve la suya.
-Quien no tenga Voranix no ve las capas.
+Catálogo de cosméticos de la comunidad **Voranix**: capas, alas, sombreros y mascotas. Cada jugador con
+Voranix Client arma su outfit en el **menú de cosméticos** (tecla **J**, o el botón **Cosméticos** del menú
+de pausa). En servidores con **Voranix Server** todos ven los cosméticos de todos; en otros servidores solo
+uno mismo ve los suyos. Quien no tenga Voranix no los ve.
+
+## Cómo está organizado
+
+| Categoría | Sección en `capas.json` | Archivos |
+|---|---|---|
+| Capas | `capas` | `capas/<id>.png` |
+| Alas | `alas` | `alas/<id>.json` + `alas/<id>.png` |
+| Sombreros | `sombreros` | `sombreros/<id>.json` + `sombreros/<id>.png` |
+| Mascotas | `mascotas` | `mascotas/<id>.json` + `mascotas/<id>.png` |
+
+`<id>` es el nombre del cosmético: minúsculas, sin espacios ni acentos (solo letras, números, `-` y `_`).
+En cada sección, `nombre` es lo que se ve en el menú y el orden del archivo es el orden del menú.
 
 ## Cómo agregar una capa nueva
 
@@ -49,8 +61,28 @@ La misma imagen de la capa lleva el diseño de los élitros, en la zona de la de
   para que el ala se vea desde los dos lados.
 - Las partes transparentes recortan la forma del ala (por ejemplo, plumas).
 
+## Alas, sombreros y mascotas (modelos 3D)
+
+Se hacen en **Blockbench** (gratis, blockbench.net):
+
+1. *Archivo → Nuevo → Bedrock Entity* (o abre uno de los ejemplos de este repositorio).
+2. Modela con el jugador **parado en el origen**, como en la plantilla de jugador de Bedrock:
+   los pies en Y=0, el cuerpo de Y=12 a Y=24, la cabeza de Y=24 a Y=32, el frente mirando al **norte**.
+   - **Sombreros**: sobre la cabeza (desde Y≈32). Siguen los movimientos de la cabeza.
+   - **Alas**: en la espalda (Z≈2). Siguen al cuerpo; no se ven con élitros puestos.
+   - **Mascotas**: sobre un hombro (el derecho del jugador está en X entre -8 y -4, arriba en Y=24). Siguen al cuerpo.
+3. Pinta la textura (UV de caja o por cara, las dos funcionan). Las partes transparentes se recortan.
+4. *Archivo → Exportar → Exportar Bedrock Geometry* → guárdalo como `<id>.json`, y la textura como `<id>.png`,
+   en la carpeta de su categoría.
+5. Agrégalo en `capas.json` en la sección de su categoría.
+
+Ejemplos: `sombreros/mago`, `alas/neon` y `mascotas/slime`.
+
+Soporta huesos (con padre, pivote y rotación) y cubos con rotación, inflate y mirror. Las animaciones de
+Blockbench todavía no se usan: los modelos se ven quietos.
+
 ## Cuándo se ven los cambios
 
 - El catálogo se relee cada 5 minutos (GitHub además puede tardar unos minutos en actualizar).
-- Si **cambias la imagen** de una capa que ya existe, se verá al reiniciar el juego. Para que se vea
-  antes, súbela con otro nombre (por ejemplo `dragon2.png`) y actualiza `capas.json`.
+- Si **cambias la imagen o el modelo** de un cosmético que ya existe, se verá al reiniciar el juego. Para que
+  se vea antes, súbelo con otro nombre (por ejemplo `dragon2`) y actualiza `capas.json`.

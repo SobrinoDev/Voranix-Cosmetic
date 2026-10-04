@@ -15,5 +15,20 @@
     "cinnamoroll": {
       "nombre": "Cinnamoroll"
     }
+  },
+  "alas": {
+    "neon": {
+      "nombre": "Alas Neón"
+    }
+  },
+  "sombreros": {
+    "mago": {
+      "nombre": "Sombrero de Mago"
+    }
+  },
+  "mascotas": {
+    "slime": {
+      "nombre": "Slime"
+    }
   }
 }
