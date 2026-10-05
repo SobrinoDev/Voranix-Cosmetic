@@ -78,8 +78,19 @@ Se hacen en **Blockbench** (gratis, blockbench.net):
 
 Ejemplos: `sombreros/mago`, `alas/neon` y `mascotas/slime`.
 
-Soporta huesos (con padre, pivote y rotación) y cubos con rotación, inflate y mirror. Las animaciones de
-Blockbench todavía no se usan: los modelos se ven quietos.
+Soporta huesos (con padre, pivote y rotación) y cubos con rotación, inflate y mirror.
+
+### Animaciones (opcional)
+
+Como el aleteo de las alas en Lunar: en Blockbench, pestaña *Animate*, crea una animación con
+**Loop** activado y mueve los huesos (rotación, posición o escala) con fotogramas clave. Después
+*Animation → Export Animations* y guárdalo como `<id>.animation.json` junto al modelo. Ejemplo:
+`alas/neon.animation.json` (cada ala es un hueso: `ala_der` y `ala_izq`).
+
+- Se usa la primera animación del archivo, en bucle.
+- Las alas aletean el doble de rápido al correr o volar.
+- Entre fotogramas se interpola en línea recta; las fórmulas Molang (texto en vez de números) no se usan.
+- Sin `.animation.json` el modelo se ve quieto. Necesita Voranix 1.7.1 o superior.
 
 ## Cuándo se ven los cambios
 
