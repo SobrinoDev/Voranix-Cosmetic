@@ -29,6 +29,9 @@
   "mascotas": {
     "slime": {
       "nombre": "Slime"
+    },
+    "cubi": {
+      "nombre": "Cubi"
     }
   }
 }
