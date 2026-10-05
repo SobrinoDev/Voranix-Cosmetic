@@ -1,0 +1,49 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.voranix_dragon_bebe.aleteo": {
+      "loop": true,
+      "animation_length": 0.8,
+      "bones": {
+        "ala_der": {
+          "rotation": {
+            "0.0": [
+              0,
+              -15,
+              6
+            ],
+            "0.4": [
+              0,
+              35,
+              -6
+            ],
+            "0.8": [
+              0,
+              -15,
+              6
+            ]
+          }
+        },
+        "ala_izq": {
+          "rotation": {
+            "0.0": [
+              0,
+              15,
+              -6
+            ],
+            "0.4": [
+              0,
+              -35,
+              6
+            ],
+            "0.8": [
+              0,
+              15,
+              -6
+            ]
+          }
+        }
+      }
+    }
+  }
+}

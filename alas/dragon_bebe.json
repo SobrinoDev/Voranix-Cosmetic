@@ -1,0 +1,122 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.voranix_dragon_bebe",
+        "texture_width": 32,
+        "texture_height": 16
+      },
+      "bones": [
+        {
+          "name": "alas",
+          "pivot": [
+            0,
+            23,
+            3
+          ]
+        },
+        {
+          "name": "ala_der",
+          "parent": "alas",
+          "pivot": [
+            -1,
+            23,
+            3
+          ],
+          "rotation": [
+            0,
+            25,
+            0
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -10,
+                19,
+                3
+              ],
+              "size": [
+                9,
+                9,
+                0
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    0,
+                    0
+                  ],
+                  "uv_size": [
+                    9,
+                    9
+                  ]
+                },
+                "south": {
+                  "uv": [
+                    0,
+                    0
+                  ],
+                  "uv_size": [
+                    9,
+                    9
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "ala_izq",
+          "parent": "alas",
+          "pivot": [
+            1,
+            23,
+            3
+          ],
+          "rotation": [
+            0,
+            -25,
+            0
+          ],
+          "cubes": [
+            {
+              "origin": [
+                1,
+                19,
+                3
+              ],
+              "size": [
+                9,
+                9,
+                0
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    16,
+                    0
+                  ],
+                  "uv_size": [
+                    9,
+                    9
+                  ]
+                },
+                "south": {
+                  "uv": [
+                    16,
+                    0
+                  ],
+                  "uv_size": [
+                    9,
+                    9
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
