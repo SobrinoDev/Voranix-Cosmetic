@@ -44,6 +44,10 @@
     },
     "fenix": {
       "nombre": "Fénix"
+    },
+    "capibara": {
+      "nombre": "Capibara",
+      "suelo": true
     }
   }
 }
