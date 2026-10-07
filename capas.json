@@ -43,57 +43,57 @@
       "nombre": "Dragoncito del End"
     },
     "fenix": {
-      "nombre": "Fénix"
+      "nombre": "Phoenix Flame"
     },
     "capibara": {
-      "nombre": "Capibara",
+      "nombre": "Capybara",
       "suelo": true
     },
     "fenix_oscuro": {
-      "nombre": "Fénix Llama Oscura"
+      "nombre": "Phoenix Darkflame"
     },
     "fenix_luz": {
-      "nombre": "Fénix de Luz"
+      "nombre": "Phoenix Light"
     },
     "fenix_trueno": {
-      "nombre": "Fénix del Trueno"
+      "nombre": "Phoenix Thunder"
     },
     "phantom_ender": {
-      "nombre": "Phantom del End"
+      "nombre": "Phantom Ender"
     },
     "phantom_fantasma": {
-      "nombre": "Phantom Fantasma"
+      "nombre": "Phantom Ghost"
     },
     "caballo_glacial": {
-      "nombre": "Caballo Glacial",
+      "nombre": "Horse Glacial",
       "suelo": true
     },
     "caballo_magma": {
-      "nombre": "Caballo de Magma",
+      "nombre": "Horse Magma",
       "suelo": true
     },
     "pegaso": {
-      "nombre": "Pegaso",
+      "nombre": "Horse Pegasus",
       "suelo": true
     },
     "caballo_espartano": {
-      "nombre": "Caballo Espartano",
+      "nombre": "Horse Spartan",
       "suelo": true
     },
     "unicornio": {
-      "nombre": "Unicornio",
+      "nombre": "Horse Unicorn",
       "suelo": true
     },
     "kitsune_demoniaco": {
-      "nombre": "Kitsune Demoníaco",
+      "nombre": "Kitsune Demonic",
       "suelo": true
     },
     "kitsune_infernal": {
-      "nombre": "Kitsune Infernal",
+      "nombre": "Kitsune Inferno",
       "suelo": true
     },
     "kitsune": {
-      "nombre": "Kitsune",
+      "nombre": "Kitsune Normal",
       "suelo": true
     }
   }
