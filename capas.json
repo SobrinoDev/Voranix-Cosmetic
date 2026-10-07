@@ -48,6 +48,53 @@
     "capibara": {
       "nombre": "Capibara",
       "suelo": true
+    },
+    "fenix_oscuro": {
+      "nombre": "Fénix Llama Oscura"
+    },
+    "fenix_luz": {
+      "nombre": "Fénix de Luz"
+    },
+    "fenix_trueno": {
+      "nombre": "Fénix del Trueno"
+    },
+    "phantom_ender": {
+      "nombre": "Phantom del End"
+    },
+    "phantom_fantasma": {
+      "nombre": "Phantom Fantasma"
+    },
+    "caballo_glacial": {
+      "nombre": "Caballo Glacial",
+      "suelo": true
+    },
+    "caballo_magma": {
+      "nombre": "Caballo de Magma",
+      "suelo": true
+    },
+    "pegaso": {
+      "nombre": "Pegaso",
+      "suelo": true
+    },
+    "caballo_espartano": {
+      "nombre": "Caballo Espartano",
+      "suelo": true
+    },
+    "unicornio": {
+      "nombre": "Unicornio",
+      "suelo": true
+    },
+    "kitsune_demoniaco": {
+      "nombre": "Kitsune Demoníaco",
+      "suelo": true
+    },
+    "kitsune_infernal": {
+      "nombre": "Kitsune Infernal",
+      "suelo": true
+    },
+    "kitsune": {
+      "nombre": "Kitsune",
+      "suelo": true
     }
   }
 }
