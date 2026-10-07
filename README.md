@@ -97,3 +97,9 @@ Como el aleteo de las alas en Lunar: en Blockbench, pestaña *Animate*, crea una
 - El catálogo se relee cada 5 minutos (GitHub además puede tardar unos minutos en actualizar).
 - Si **cambias la imagen o el modelo** de un cosmético que ya existe, se verá al reiniciar el juego. Para que
   se vea antes, súbelo con otro nombre (por ejemplo `dragon2`) y actualiza `capas.json`.
+
+## Créditos
+
+Los dragones elementales (Air, Darkness, Earth, Fire, Galaxy, Ice, Light y Nature Dragon, carpeta `mascotas/dragon_*`)
+son modelos de **Cubees Studio** (cubeesstudio.net), usados con su autorización para el cliente Voranix.
+No se venden ni se usan con fines de lucro. Todos los derechos sobre esos modelos son de Cubees Studio.

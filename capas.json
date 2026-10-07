@@ -95,6 +95,46 @@
     "kitsune": {
       "nombre": "Kitsune Normal",
       "suelo": true
+    },
+    "dragon_aire": {
+      "nombre": "Air Dragon",
+      "suelo": true,
+      "autor": "Cubees Studio"
+    },
+    "dragon_oscuridad": {
+      "nombre": "Darkness Dragon",
+      "suelo": true,
+      "autor": "Cubees Studio"
+    },
+    "dragon_tierra": {
+      "nombre": "Earth Dragon",
+      "suelo": true,
+      "autor": "Cubees Studio"
+    },
+    "dragon_fuego": {
+      "nombre": "Fire Dragon",
+      "suelo": true,
+      "autor": "Cubees Studio"
+    },
+    "dragon_galaxia": {
+      "nombre": "Galaxy Dragon",
+      "suelo": true,
+      "autor": "Cubees Studio"
+    },
+    "dragon_hielo": {
+      "nombre": "Ice Dragon",
+      "suelo": true,
+      "autor": "Cubees Studio"
+    },
+    "dragon_luz": {
+      "nombre": "Light Dragon",
+      "suelo": true,
+      "autor": "Cubees Studio"
+    },
+    "dragon_naturaleza": {
+      "nombre": "Nature Dragon",
+      "suelo": true,
+      "autor": "Cubees Studio"
     }
   }
 }
