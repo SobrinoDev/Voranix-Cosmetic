@@ -14,6 +14,69 @@
     },
     "cinnamoroll": {
       "nombre": "Cinnamoroll"
+    },
+    "ciudad_tormenta": {
+      "nombre": "Ciudad Tormenta",
+      "velocidad": 100
+    },
+    "pikachu": {
+      "nombre": "Pikachu",
+      "velocidad": 150
+    },
+    "plumas_fenix": {
+      "nombre": "Plumas de Fénix"
+    },
+    "nebulosa_azul": {
+      "nombre": "Nebulosa Azul"
+    },
+    "fuego_morado": {
+      "nombre": "Fuego Morado"
+    },
+    "fuego_blanco": {
+      "nombre": "Fuego Blanco",
+      "velocidad": 100
+    },
+    "luna_sangre": {
+      "nombre": "Luna de Sangre",
+      "velocidad": 120
+    },
+    "noche_luna": {
+      "nombre": "Noche de Luna",
+      "velocidad": 150
+    },
+    "manto_oscuro": {
+      "nombre": "Manto Oscuro"
+    },
+    "saturno": {
+      "nombre": "Saturno"
+    },
+    "cielo_nubes": {
+      "nombre": "Cielo de Nubes"
+    },
+    "manto_blanco": {
+      "nombre": "Manto Blanco"
+    },
+    "cristal_hielo": {
+      "nombre": "Cristal de Hielo"
+    },
+    "cielo_estrellado": {
+      "nombre": "Cielo Estrellado"
+    },
+    "emblema_fuego": {
+      "nombre": "Emblema de Fuego"
+    },
+    "manto_negro": {
+      "nombre": "Manto Negro Real"
+    },
+    "manto_azul": {
+      "nombre": "Manto Azul Real"
+    },
+    "manto_purpura": {
+      "nombre": "Manto Púrpura"
+    },
+    "pi": {
+      "nombre": "Pi",
+      "velocidad": 300
     }
   },
   "alas": {
