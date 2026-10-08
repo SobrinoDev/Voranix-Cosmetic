@@ -30,18 +30,6 @@
     }
   },
   "mascotas": {
-    "slime": {
-      "nombre": "Slime"
-    },
-    "cubi": {
-      "nombre": "Cubi"
-    },
-    "honguito": {
-      "nombre": "Honguito"
-    },
-    "dragoncito": {
-      "nombre": "Dragoncito del End"
-    },
     "fenix": {
       "nombre": "Phoenix Flame"
     },
