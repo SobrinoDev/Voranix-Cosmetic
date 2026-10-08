@@ -127,6 +127,38 @@
     "dragon_naturaleza": {
       "nombre": "Nature Dragon",
       "autor": "Cubees Studio"
+    },
+    "cubee_badlands": {
+      "nombre": "Cubee Badlands",
+      "autor": "Cubees Studio"
+    },
+    "cubee_beach": {
+      "nombre": "Cubee Beach",
+      "autor": "Cubees Studio"
+    },
+    "cubee_birch": {
+      "nombre": "Cubee Birch",
+      "autor": "Cubees Studio"
+    },
+    "cubee_cherry_blossom": {
+      "nombre": "Cubee Cherry Blossom",
+      "autor": "Cubees Studio"
+    },
+    "cubee_dark_oak": {
+      "nombre": "Cubee Dark Oak",
+      "autor": "Cubees Studio"
+    },
+    "cubee_deep_dark": {
+      "nombre": "Cubee Deep Dark",
+      "autor": "Cubees Studio"
+    },
+    "cubee_dripstone": {
+      "nombre": "Cubee Dripstone",
+      "autor": "Cubees Studio"
+    },
+    "cubee_taiga": {
+      "nombre": "Cubee Taiga",
+      "autor": "Cubees Studio"
     }
   }
 }
