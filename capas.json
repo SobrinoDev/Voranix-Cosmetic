@@ -274,5 +274,11 @@
       "nombre": "Horn Bandana",
       "autor": "Creadores de Cosmetica (cosmetica.cc)"
     }
+  },
+  "pins": {
+    "zerestial": {
+      "nombre": "Zerestial Pin",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
+    }
   }
 }
