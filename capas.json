@@ -229,5 +229,15 @@
       "nombre": "Cubee Taiga",
       "autor": "Cubees Studio"
     }
+  },
+  "bandanas": {
+    "cuernos_azules": {
+      "nombre": "Blue Horns",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
+    },
+    "bandana_cuernos": {
+      "nombre": "Horn Bandana",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
+    }
   }
 }
