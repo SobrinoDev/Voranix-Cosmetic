@@ -309,6 +309,46 @@
       "cuadros": 5,
       "velocidad": 100,
       "autor": "Cubees Studio"
+    },
+    "cubee_baby_ghast": {
+      "nombre": "Cubee Baby Ghast",
+      "suelo": true,
+      "autor": "Cubees Studio"
+    },
+    "cubee_bombardier_creeper": {
+      "nombre": "Cubee Bombardier Creeper",
+      "suelo": true,
+      "autor": "Cubees Studio"
+    },
+    "cubee_cannon": {
+      "nombre": "Cubee Cannon",
+      "suelo": true,
+      "autor": "Cubees Studio"
+    },
+    "cubee_hoody_fox": {
+      "nombre": "Cubee Hoody Fox",
+      "suelo": true,
+      "autor": "Cubees Studio"
+    },
+    "cubee_llama": {
+      "nombre": "Cubee Llama",
+      "suelo": true,
+      "autor": "Cubees Studio"
+    },
+    "cubee_slingshot": {
+      "nombre": "Cubee Slingshot",
+      "suelo": true,
+      "autor": "Cubees Studio"
+    },
+    "cubee_swag_pillager": {
+      "nombre": "Cubee Swag Pillager",
+      "suelo": true,
+      "autor": "Cubees Studio"
+    },
+    "cubee_twinkle_witch": {
+      "nombre": "Cubee Twinkle Witch",
+      "suelo": true,
+      "autor": "Cubees Studio"
     }
   },
   "bandanas": {
