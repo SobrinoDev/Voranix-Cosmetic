@@ -271,6 +271,44 @@
     "cubee_taiga": {
       "nombre": "Cubee Taiga",
       "autor": "Cubees Studio"
+    },
+    "cubee_evil": {
+      "nombre": "Cubee Evil",
+      "autor": "Cubees Studio"
+    },
+    "cubee_fire": {
+      "nombre": "Cubee Fire",
+      "cuadros": 5,
+      "velocidad": 100,
+      "autor": "Cubees Studio"
+    },
+    "cubee_good": {
+      "nombre": "Cubee Good",
+      "autor": "Cubees Studio"
+    },
+    "cubee_grass": {
+      "nombre": "Cubee Grass",
+      "autor": "Cubees Studio"
+    },
+    "cubee_skeleton": {
+      "nombre": "Cubee Skeleton",
+      "autor": "Cubees Studio"
+    },
+    "cubee_stone": {
+      "nombre": "Cubee Stone",
+      "autor": "Cubees Studio"
+    },
+    "cubee_tnt": {
+      "nombre": "Cubee Tnt",
+      "cuadros": 20,
+      "velocidad": 100,
+      "autor": "Cubees Studio"
+    },
+    "cubee_water": {
+      "nombre": "Cubee Water",
+      "cuadros": 5,
+      "velocidad": 100,
+      "autor": "Cubees Studio"
     }
   },
   "bandanas": {

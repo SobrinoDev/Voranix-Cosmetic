@@ -101,7 +101,8 @@ Como el aleteo de las alas en Lunar: en Blockbench, pestaña *Animate*, crea una
 ## Créditos
 
 Los dragones elementales (Air, Darkness, Earth, Fire, Galaxy, Ice, Light y Nature Dragon, carpeta `mascotas/dragon_*`)
-y los Cubees de biomas (Badlands, Beach, Birch, Cherry Blossom, Dark Oak, Deep Dark, Dripstone y Taiga, `mascotas/cubee_*`)
+los Cubees de biomas (Badlands, Beach, Birch, Cherry Blossom, Dark Oak, Deep Dark, Dripstone y Taiga) y los Cubees
+Starter (Evil, Fire, Good, Grass, Skeleton, Stone, TNT y Water), carpeta `mascotas/cubee_*`,
 son modelos de **Cubees Studio** (cubeesstudio.net), usados con su autorización para el cliente Voranix.
 No se venden ni se usan con fines de lucro. Todos los derechos sobre esos modelos son de Cubees Studio.
 
