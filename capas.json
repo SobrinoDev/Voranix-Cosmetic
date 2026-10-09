@@ -143,6 +143,14 @@
   "sombreros": {
     "mago": {
       "nombre": "Sombrero de Mago"
+    },
+    "orejas_gato": {
+      "nombre": "Noya Cat Ears",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
+    },
+    "bufon_digital": {
+      "nombre": "Digital Jester Hat",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
     }
   },
   "mascotas": {
