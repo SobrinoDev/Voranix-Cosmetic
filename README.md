@@ -104,3 +104,8 @@ Los dragones elementales (Air, Darkness, Earth, Fire, Galaxy, Ice, Light y Natur
 y los Cubees de biomas (Badlands, Beach, Birch, Cherry Blossom, Dark Oak, Deep Dark, Dripstone y Taiga, `mascotas/cubee_*`)
 son modelos de **Cubees Studio** (cubeesstudio.net), usados con su autorización para el cliente Voranix.
 No se venden ni se usan con fines de lucro. Todos los derechos sobre esos modelos son de Cubees Studio.
+
+Las alas Animated 3D Angel Wing, Autumn Leaves Wings, Black Wing y Crystal Wing (`alas/angel`, `alas/hojas_otono`,
+`alas/ala_negra`, `alas/cristal`) son creaciones de usuarios de **Cosmetica** (cosmetica.cc), publicadas en su galería
+pública. Se usan con reconocimiento a sus autores y sin fines de lucro; si algún creador pide que se retire su diseño,
+se retira.

@@ -85,6 +85,24 @@
     },
     "dragon_bebe": {
       "nombre": "Alas de Dragón Bebé"
+    },
+    "angel": {
+      "nombre": "Animated 3D Angel Wing",
+      "cuadros": 6,
+      "velocidad": 100,
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
+    },
+    "hojas_otono": {
+      "nombre": "Autumn Leaves Wings",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
+    },
+    "ala_negra": {
+      "nombre": "Black Wing",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
+    },
+    "cristal": {
+      "nombre": "Crystal Wing",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
     }
   },
   "sombreros": {
