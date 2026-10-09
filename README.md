@@ -109,3 +109,7 @@ Las bandanas Blue Horns y Horn Bandana (`bandanas/`) y las alas Animated 3D Ange
 `alas/ala_negra`, `alas/cristal`) son creaciones de usuarios de **Cosmetica** (cosmetica.cc), publicadas en su galería
 pública. Se usan con reconocimiento a sus autores y sin fines de lucro; si algún creador pide que se retire su diseño,
 se retira.
+
+Las capas de la galería de Cosmetica (cosmetica.cc) también son creaciones de sus usuarios y se usan con reconocimiento
+y sin fines de lucro: Fallea, Luminous Network, Magma Cloak, Metefrez, Pi (de Jackx), Ciudad Tormenta (Galactic City,
+de MinuteTech) y el resto de las capas marcadas con "autor" en capas.json.

@@ -17,66 +17,101 @@
     },
     "ciudad_tormenta": {
       "nombre": "Ciudad Tormenta",
-      "velocidad": 100
+      "velocidad": 100,
+      "autor": "MinuteTech (Cosmetica)"
     },
     "pikachu": {
       "nombre": "Pikachu",
-      "velocidad": 150
+      "velocidad": 150,
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
     },
     "plumas_fenix": {
-      "nombre": "Plumas de Fénix"
+      "nombre": "Plumas de Fénix",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
     },
     "nebulosa_azul": {
-      "nombre": "Nebulosa Azul"
+      "nombre": "Nebulosa Azul",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
     },
     "fuego_morado": {
-      "nombre": "Fuego Morado"
+      "nombre": "Fuego Morado",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
     },
     "fuego_blanco": {
       "nombre": "Fuego Blanco",
-      "velocidad": 100
+      "velocidad": 100,
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
     },
     "luna_sangre": {
       "nombre": "Luna de Sangre",
-      "velocidad": 120
+      "velocidad": 120,
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
     },
     "noche_luna": {
       "nombre": "Noche de Luna",
-      "velocidad": 150
+      "velocidad": 150,
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
     },
     "manto_oscuro": {
-      "nombre": "Manto Oscuro"
+      "nombre": "Manto Oscuro",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
     },
     "saturno": {
-      "nombre": "Saturno"
+      "nombre": "Saturno",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
     },
     "cielo_nubes": {
-      "nombre": "Cielo de Nubes"
+      "nombre": "Cielo de Nubes",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
     },
     "manto_blanco": {
-      "nombre": "Manto Blanco"
+      "nombre": "Manto Blanco",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
     },
     "cristal_hielo": {
-      "nombre": "Cristal de Hielo"
+      "nombre": "Cristal de Hielo",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
     },
     "cielo_estrellado": {
-      "nombre": "Cielo Estrellado"
+      "nombre": "Cielo Estrellado",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
     },
     "emblema_fuego": {
-      "nombre": "Emblema de Fuego"
+      "nombre": "Emblema de Fuego",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
     },
     "manto_negro": {
-      "nombre": "Manto Negro Real"
+      "nombre": "Manto Negro Real",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
     },
     "manto_azul": {
-      "nombre": "Manto Azul Real"
+      "nombre": "Manto Azul Real",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
     },
     "manto_purpura": {
-      "nombre": "Manto Púrpura"
+      "nombre": "Manto Púrpura",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
     },
     "pi": {
       "nombre": "Pi",
-      "velocidad": 300
+      "velocidad": 300,
+      "autor": "Jackx (Cosmetica)"
+    },
+    "fallea": {
+      "nombre": "Fallea",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
+    },
+    "luminous_network": {
+      "nombre": "Luminous Network",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
+    },
+    "magma_cloak": {
+      "nombre": "Magma Cloak",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
+    },
+    "metefrez": {
+      "nombre": "Metefrez",
+      "autor": "Creadores de Cosmetica (cosmetica.cc)"
     }
   },
   "alas": {
