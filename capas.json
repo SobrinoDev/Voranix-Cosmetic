@@ -171,6 +171,12 @@
     },
     "cerezo_celeste": {
       "nombre": "Alas de Cerezo Celeste"
+    },
+    "fenix_morado": {
+      "nombre": "Alas de Fénix Morado"
+    },
+    "fenix_cian": {
+      "nombre": "Alas de Fénix Cian"
     }
   },
   "sombreros": {
