@@ -147,6 +147,21 @@
     },
     "murcielago": {
       "nombre": "Alas de Murciélago"
+    },
+    "murcielago_azul": {
+      "nombre": "Alas de Murciélago Azul"
+    },
+    "murcielago_verde": {
+      "nombre": "Alas de Murciélago Verde"
+    },
+    "murcielago_rojo": {
+      "nombre": "Alas de Murciélago Rojo"
+    },
+    "murcielago_morado": {
+      "nombre": "Alas de Murciélago Morado"
+    },
+    "murcielago_rosado": {
+      "nombre": "Alas de Murciélago Rosado"
     }
   },
   "sombreros": {
