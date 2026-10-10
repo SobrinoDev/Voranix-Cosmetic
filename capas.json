@@ -180,6 +180,9 @@
     },
     "mecanica": {
       "nombre": "Alas Mecánicas"
+    },
+    "mecanica_compacta": {
+      "nombre": "Alas Mecánicas Compactas"
     }
   },
   "sombreros": {
